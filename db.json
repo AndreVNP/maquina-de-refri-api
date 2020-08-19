@@ -3,12 +3,7 @@
     {
       "id": 1,
       "name": "Retina Pro Display",
-      "price": 49000
-    },
-    {
-      "id": 2,
-      "name": "Macbook Pro",
-      "price": 12000
+      "price": "4900"
     },
     {
       "id": 3,
@@ -21,14 +16,9 @@
       "id": 4
     },
     {
-      "name": "Macbook 2015",
+      "name": "Macbook Pro 2015",
       "price": 5500,
       "id": 5
-    },
-    {
-      "name": "Veio do Fórmulário",
-      "price": "9.99",
-      "id": 6
     },
     {
       "name": "Notebook Acer",
@@ -36,8 +26,8 @@
       "id": 7
     },
     {
-      "name": "Geladeira",
-      "price": "2900",
+      "name": "Samsung S20+",
+      "price": "2999",
       "id": 8
     }
   ]
